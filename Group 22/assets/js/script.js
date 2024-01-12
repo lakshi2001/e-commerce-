@@ -1,0 +1,3 @@
+function Fofo(){
+    alert("kk");
+}
